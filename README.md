@@ -1,2 +1,2 @@
 # css-grid-layout
-css grid layout practice
+css grid layout practice featuring common layouts and mobile responsiveness
